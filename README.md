@@ -19,14 +19,6 @@ A modern, dark-themed personal portfolio website showcasing my work as a Python 
 - CSS3
 - JavaScript (ES6+)
 
-No frameworks, no dependencies - pure vanilla code for maximum performance and easy deployment.
 
-## 📦 Deployment
-
-This site is ready to deploy on:
-
-- **Netlify**: Drag and drop the folder
-- **GitHub Pages**: Enable in repository settings
-- **Vercel**: Import from Git
-- Any static hosting service
-
+####
+- 🔧 Work in progress: Certain features are still being developed — expect frequent updates and improvements.
