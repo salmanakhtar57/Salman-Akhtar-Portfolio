@@ -30,16 +30,3 @@ This site is ready to deploy on:
 - **Vercel**: Import from Git
 - Any static hosting service
 
-## 📧 Contact
-
-- Email: salmanmaken10@gmail.com
-- LinkedIn: [linkedin.com/in/salman-akhtar-09a210198](https://www.linkedin.com/in/salman-akhtar-09a210198)
-- GitHub: [github.com/salmanakhtar57](https://github.com/salmanakhtar57)
-
-## 📄 License
-
-Feel free to use this template for your own portfolio!
-
----
-
-© 2025 Salman Akhtar. All rights reserved.
